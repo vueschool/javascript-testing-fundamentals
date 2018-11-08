@@ -14,4 +14,4 @@ This course is not only for beginners in testing but also for those who are not 
 By the end of this course, you'll be equipped with knowledge about testing, jargon, and terminologies and thus be ready to tackle our testing courses.
 
 
-The course is free. [Enroll at Vue School!](https://vueschool.io/courses/javascript-testing-fundamentals)
+[Enroll at Vue School!](https://vueschool.io/courses/javascript-testing-fundamentals)
